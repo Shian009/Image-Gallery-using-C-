@@ -14,7 +14,6 @@
 
 ### Home Screen
 ![](https://i.ibb.co/6mBsF4Q/UI1.jpg)
-![](https://i.ibb.co/6mBsF4Q/UI1.jpg)
 ![](https://i.ibb.co/25KdPrD/UI2.jpg)
 ![](https://i.ibb.co/WybrWv4/UI3.jpg)
 
