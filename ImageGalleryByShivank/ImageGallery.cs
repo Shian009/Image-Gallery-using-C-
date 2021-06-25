@@ -349,12 +349,12 @@ namespace ImageGalleryByShivank
             Thread t = new Thread(new ThreadStart(StartForm));
             t.Start();
             Thread.Sleep(4000);
-            t.Abort();
-            
+                     
             // bringing our home screen to the top and displaying it to the user
             this.BringToFront();
             this.TopMost = true;
             this.Show();
+            t.Abort();
         }
         // to start splash screen form
         public void StartForm()
